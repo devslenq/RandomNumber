@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandomNumber</string>
+    <string name="error_input_number">Ошибка введенных данных!</string>
+    <string name="enter_you_number">Enter you number</string>
+    <string name="get_fact">Отримати факт</string>
+    <string name="get_random_fact">Отримати випадковий факт</string>
+    <string name="past_requestsi">Минулі запити</string>
+</resources>
